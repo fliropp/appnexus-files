@@ -1,0 +1,9 @@
+{
+    "campaign": {
+    "state": "inactive",
+    "name": "AresCampaign",
+    "advertiser_id": 2923193,
+    "line_item_id": 6754423,
+    "inventory_type": "direct"
+    }
+}

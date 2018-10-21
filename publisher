@@ -1,0 +1,6 @@
+{
+    "publisher": {
+        "name": "Are publishing Inc",
+        "inventory_relationship":"indirect_multiple_publishers"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "insertion-order": {
+        "name": "AreInsertionOrder",
+        "budget_intervals": [
+
+            {
+                "start_date": "2018-11-01 00:00:00",
+                "end_date": "2030-12-14 23:59:59",
+                "daily_budget": null,
+                "daily_budget_imps": 10,
+                "enable_pacing": true,
+                "lifetime_budget": null,
+                "lifetime_budget_imps": 980,
+                "lifetime_pacing": false
+            }
+        ]
+    }
+}

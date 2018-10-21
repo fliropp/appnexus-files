@@ -1,0 +1,5 @@
+curl -b cookies -c cookies -X POST --data-binary @auth 'https://api.appnexus.com/auth'
+curl -b cookies -c cookies -X POST --data-binary @advertiser 'https://api.appnexus.com/advertiser'
+curl -b cookies -X POST -d @insertion-order 'https://api.appnexus.com/insertion-order?advertiser_id=2923193'
+curl -b cookies -X POST -d @line-item "https://api.appnexus.com/line-item?&advertiser_id=2923193"
+curl -b cookies -X POST -d @campaign 'https://api.appnexus.com/campaign?advertiser_id=2923193'

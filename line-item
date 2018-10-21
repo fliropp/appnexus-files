@@ -1,0 +1,16 @@
+{
+    "line-item": {
+        "name": "AresLineItem",
+        "state": "active",
+        "insertion_orders": [
+            {
+                "id": 943425
+            }
+        ],
+        "budget_intervals": [
+            {
+                "parent_interval_id": 3444533
+            }
+        ]
+    }
+}
